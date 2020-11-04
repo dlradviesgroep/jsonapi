@@ -1,9 +1,9 @@
 {
-	"name": "dlradviesgroep/jsonapi",
+	"name": "alsvanzelf/jsonapi",
 	"type": "library",
 	"description": "Human-friendly library to implement JSON:API without needing to know the specification.",
 	"keywords": ["jsonapi", "json-api", "api", "json"],
-	"homepage": "https://github.com/dlradviesgroep/jsonapi",
+	"homepage": "https://github.com/lode/jsonapi",
 	"license": "MIT",
 	"authors": [
 		{
